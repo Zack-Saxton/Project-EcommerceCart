@@ -1,3 +1,7 @@
+// Still have features to add to this project. 
+
+
+
 // variables
 
 const cartBtn = document.querySelector(".cart-btn");
