@@ -1,0 +1,71 @@
+{
+    "items":[
+        {
+            "sys": {"id": "1"},
+            "fields":{
+                "title": "jacket",
+                "price": 250.00,
+                "image": {"fields": { "file": {"url": "./media/jkt.webp"} } }
+            }
+        },
+        {
+            "sys": {"id": "2"},
+            "fields":{
+                "title": "pants",
+                "price": 200.00,
+                "image": {"fields": { "file": {"url": "./media/pants.webp"} } }
+            }
+        },
+        {
+            "sys": {"id": "3"},
+            "fields":{
+                "title": "gloves",
+                "price": 50.00,
+                "image": {"fields": { "file": {"url": "./media/gloves.webp"} } }
+            }
+        },
+        {
+            "sys": {"id": "4"},
+            "fields":{
+                "title": "boots",
+                "price": 350.00,
+                "image": {"fields": { "file": {"url": "./media/boot.webp"} } }
+            }
+        },
+        {
+            "sys": {"id": "5"},
+            "fields":{
+                "title": "board",
+                "price": 599.00,
+                "image": {"fields": { "file": {"url": "./media/board.webp"} } }
+            }
+        },
+        {
+            "sys": {"id": "6"},
+            "fields":{
+                "title": "boot and binding",
+                "price": 490.00,
+                "image": {"fields": { "file": {"url": "./media/bootspkg.webp"} } }
+            }
+        },
+        {
+            "sys": {"id": "7"},
+            "fields":{
+                "title": "full package",
+                "price": 990.00,
+                "image": {"fields": { "file": {"url": "./media/complete.webp"} } }
+            }
+        },
+        {
+            "sys": {"id": "8"},
+            "fields":{
+                "title": "binding",
+                "price": 200.00,
+                "image": {"fields": { "file": {"url": "./media/binding.webp"} } }
+            }
+        }
+        
+
+
+    ]
+}
