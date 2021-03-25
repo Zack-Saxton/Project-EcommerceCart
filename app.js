@@ -86,6 +86,7 @@ class UI {
         this.setCartValues(cart);
         // display cart item(TOTAL)
         this.addCartItem(cartItem);
+        console.log(cartItem);
 
         // show cart
         this.showCart();
